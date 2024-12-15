@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**day-trading-simulator/day-trading-simulator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm the creator of **simul8or**, a web-based **day trading simulator** designed to help traders of all levels improve their skills without the financial risk.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌟 **Passion**: Building tools that empower people in financial markets and education.
+- 💻 **Expertise**: Web Development, Day Trading, and Artificial Intelligence.
+- 📈 **Mission**: Making trading accessible and fun while helping traders master their strategies.
+
+---
+
+## 🛠️ My Main Project: Simul8or
+
+[simul8or](https://simul8or.com) is a **real-time trading simulator** with powerful features:
+- **Realistic Trading Scenarios**: Simulate stock market conditions in real-time.
+- **Strategy Development**: Test and refine your trading strategies.
+- **Risk Management**: Learn how to manage your portfolio effectively.
+
+🌐 **Website**: [simul8or Trading Simulator](https://simul8or.com)  
+
+---
+
+## 🌟 Technologies & Tools
+- **Languages**: C#, JavaScript, HTML/CSS
+- **Frameworks**: ASP.NET WebForms
+- **Database**: SQL Server
+- **Other Tools**: Git, Visual Studio, Azure
+
+---
+
+## 🤝 Let’s Connect!
+I’m always open to collaborations and discussions about day trading, web development, and AI.  
+
+
